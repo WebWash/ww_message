@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the WW Message feature.
+ */
+
+include_once 'ww_message.features.inc';
