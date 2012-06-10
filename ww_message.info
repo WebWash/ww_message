@@ -1,5 +1,5 @@
 name = WW Message
-description = Example configuration for message article on webwash.net.
+description = Example configuration for Message article on webwash.net.
 core = 7.x
 package = Web Wash
 php = 5.2.4

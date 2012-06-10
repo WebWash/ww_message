@@ -56,7 +56,7 @@ function ww_message_node_info() {
     'ww_blog' => array(
       'name' => t('Blog'),
       'base' => 'node_content',
-      'description' => t('Example blog content type.'),
+      'description' => t('Example content type defined by WW Message feature.'),
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',
